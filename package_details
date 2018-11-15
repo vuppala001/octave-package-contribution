@@ -1,0 +1,15 @@
+-->Every package must have its Description,Index,Copying,News
+-->Every package is having Doc folder,Inst folder,Src folder
+-->Doc folder may contain text files about the information related to your package and some doc files may also contain .info, .txi, .texi, .m, .sh, .mk, .pl, .html,.cnf files
+-->.sh files are shell files equivalent to the batch(.bt) files in windows
+-->.info files are used to help files that have been created with .txi files and .texi files.
+-->.mk file is make file is used for a program to determine which file to compile it the given text.
+-->.pl file is perl file . It contains perl code , variables etc
+-->.m4 is macro file is a text replacement tool
+-->.cc means c++ programming files
+-->.o is object file contains compiled object file	
+-->.oct is a 3d scene created by radiance a ray tracking tool kit
+-->.h file is header file
+-->.log files records the events that occur in the operating system
+
+
